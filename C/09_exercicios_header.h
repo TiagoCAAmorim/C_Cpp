@@ -1,0 +1,1 @@
+void acumula(int x);

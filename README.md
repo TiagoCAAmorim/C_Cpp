@@ -1,2 +1,1 @@
-# C_Cpp
-C and Cpp studies
+C and C++ introductory studies.
